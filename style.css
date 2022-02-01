@@ -1,0 +1,33 @@
+*{
+  margin: 0;
+  
+}
+.attribution { 
+  font-size: 11px; text-align: center; 
+}
+.attribution a { 
+  color: hsl(228, 45%, 44%); 
+}
+
+.caixa{
+  display: flexbox;
+  text-align: center;
+  padding: 160px;
+  border: solid hsl(0, 0%, 100%) 1px;
+  border-radius: 20px;
+  background-color: rgb(243, 240, 236);
+  
+}
+.textodestaque {
+  padding: 50px 10px;
+  text-align: center;
+  border: 20px;
+  font-size: 25px;
+}
+.qrcode{
+  width: 20em;
+  border-radius: 20px;
+  
+  
+
+}
